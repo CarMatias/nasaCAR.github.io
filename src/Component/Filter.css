@@ -1,0 +1,29 @@
+form{
+    text-align: center;
+    margin: 25px;
+    
+}
+.buttom{
+    color: white;
+    background-color: #0b3d91;
+    width: 50px;
+    height: 50px;
+    margin-left: -40px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-style: none;
+}
+button :hover{
+    cursor: pointer;
+}
+.modinp{
+    text-align: center;
+    width: 500px;
+    height: 50px;
+
+    border-radius: 20px;
+    border-style: none;
+    outline: none;
+}
+
+
